@@ -6,6 +6,10 @@ h1{
     color: #1a1a1a;
     background-color:light-red;
 }
+#herologo.img{
+   background: rebeccapurple;
+    text-align: center;
+}
 img {
   border-radius: 50%;
 }
