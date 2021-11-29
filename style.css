@@ -24,3 +24,22 @@ ul#horizontal-nav li{
    display:inline;
    float:top;
 }
+li a{
+    background-color:white;
+    color:crimson;
+    text-decoration:none;
+    text-transform:uppercase;
+    padding: 1em 1.5em;
+    display:block;
+    margin:5px;
+    border-radius:15px;
+
+}
+
+li a:hover{
+    background-color:azure;
+    cursor:pointer;
+}
+li a:visited{
+    color:white;
+}
