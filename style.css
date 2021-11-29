@@ -22,4 +22,5 @@ ul {
 }
 ul#horizontal-nav li{
    display:inline;
+   float:top;
 }
