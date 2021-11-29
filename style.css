@@ -15,6 +15,11 @@ nav{
     height:6vh;
    width:100%;
 }
+header{
+    background-color:light-purple;
+    height:6vh;
+   width:100%;
+}
 ul {
   list-style-type: none;
   margin: 0;
