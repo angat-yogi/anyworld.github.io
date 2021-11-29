@@ -9,11 +9,6 @@ h1{
 img {
   border-radius: 50%;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 nav{
     float: left;
     background-color:crimson;
