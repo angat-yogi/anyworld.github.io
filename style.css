@@ -14,3 +14,8 @@ ul {
   margin: 0;
   padding: 0;
 }
+nav{
+    float: top;
+    background-color:crimson;
+    height:100vh;
+}
