@@ -10,9 +10,9 @@ img {
   border-radius: 50%;
 }
 nav{
-    float: left;
+    float: top;
     background-color:crimson;
-    height:100vh;
+    height:20vh;
 }
 ul {
   list-style-type: none;
