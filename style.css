@@ -15,7 +15,7 @@ ul {
   padding: 0;
 }
 nav{
-    float: top;
+    float: left;
     background-color:crimson;
     height:100vh;
 }
